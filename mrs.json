@@ -1,0 +1,46 @@
+    /*
+    4/15/2022	
+New Hampshire Int. Speedway - Loudon, NH
+MRS practice day
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	4/16/2022	
+New Hampshire Int. Speedway - Loudon, NH
+NHIS 50
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	6/4/2022	
+White Mountain Mtrspts Park - North Woodstock, NH
+June in The Mountains
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	7/9/2022	
+Wiscassett Speedway - Wiscassett, ME
+Mid-Maine Coast 75
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	8/27/2022	
+Oxford Plains Speedway - Oxford, ME
+Oxford 75
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	9/18/2022	
+Star Speedway - Epping, NH
+MRS Classic 100
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+ 	10/7/2022	
+Thompson Speedway Motorsports Park - Thompson, CT
+World Series 50
+Asphalt Small Block Modifieds: Modified Racing Series
+ 	Details
+
+    */
+    [
+    {
+        "date": "2021-04-15T04:00:00.000Z",
+        "series": "MRS",
+        "track": "New Hampshire Speedway",
+        "description": ""
+    }
+    ]
